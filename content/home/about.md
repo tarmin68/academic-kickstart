@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "PhD in Information Science"
   institution = "University of Pittsburgh"
-  year = 2015-Present
+  year = Present
 
 [[education.courses]]
   course = "MSc in Information Technology Engineering"
   institution = "Sharif University of Technology"
-  year = 2011-2013
+  year = 2013
 
 [[education.courses]]
   course = "BSc in Information Technology Engineering"
   institution = "Sharif University of Technology"
-  year = 2007-2011
+  year = 2011
  
 +++
 

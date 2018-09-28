@@ -252,7 +252,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "skype"
     icon_pack = "fas"
-    link = "//skype:tarmin68"
+    link = "skype:tarmin68"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

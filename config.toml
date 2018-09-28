@@ -251,7 +251,7 @@ enableGitInfo = false
 	
   [[params.social]]
     icon = "skype"
-    icon_pack = "fas"
+    icon_pack = "fab"
     link = "skype:tarmin68"
 
   # Link to a PDF of your resume/CV from the About widget.

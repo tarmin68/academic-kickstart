@@ -19,7 +19,6 @@ weight = 5
 [[education.courses]]
   course = "PhD in Information Science"
   institution = "University of Pittsburgh"
-  year = Exp2020
 
 [[education.courses]]
   course = "MSc in Information Technology Engineering"

@@ -12,14 +12,14 @@ weight = 5
   interests = [
     "Information Security",
     "Data Privacy",
-    "Dta Mining/Applied Machine Learning"
+    "Data Mining/Applied Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Information Science"
   institution = "University of Pittsburgh"
-  year = Present
+  year = 2020
 
 [[education.courses]]
   course = "MSc in Information Technology Engineering"
@@ -35,4 +35,4 @@ weight = 5
 
 # Biography
 
-I am a forth-year PhD student at the University of Pittsburgh in the Department of Informatics and Networked Systems working with <a href="http://sis.pitt.edu/jjoshi/" target="_blank">Prof. James Joshi</a>.
+I am a forth-year PhD student at the University of Pittsburgh in the Department of Informatics and Networked Systems working with Prof. James Joshi.

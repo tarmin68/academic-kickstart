@@ -34,4 +34,4 @@ weight = 5
 
 # Biography
 
-I am a forth-year PhD student at the University of Pittsburgh in the Department of Informatics and Networked Systems working with Prof. James Joshi.
+I am a forth-year PhD student at the University of Pittsburgh in the Department of Informatics and Networked Systems working with <a href="http://sis.pitt.edu/jjoshi/" target="_blank">Prof. James Joshi</a>.

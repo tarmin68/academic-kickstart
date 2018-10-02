@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_custom = [{name = "Cite", url = "https://ieeexplore.ieee.org/abstract/document/8181514"}, {name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
+url_custom = [{name = "Cite", url = "files/citation/accss-control-healthcare.bib"}, {name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
 url_pdf = "files/AccessControlHealthcare.pdf"
 url_preprint = ""
 url_code = ""
@@ -50,8 +50,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #[[url_custom]]
-#name = "Cite"
-#url = "files/citation/accss-control-healthcare.bib"
 
 
 # Does the content use math formatting?

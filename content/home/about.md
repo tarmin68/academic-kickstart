@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
 I am a forth-year PhD student at the <a href="https://www.pitt.edu/" target="_blank">University of Pittsburgh</a> in the <a href="http://sci.pitt.edu/" target="_blank">Department of Informatics and Networked Systems</a> working with <a href="http://sis.pitt.edu/jjoshi/" target="_blank">Prof. James Joshi</a>. My primary research interests lie at the intersection of information security, data privacy and machine learning.
 Currently, I'm working on applying machine learning techniques to solve challenging problems in security domain. In my current research, I'm using unsupervised learning methods to extract attribute based access control policies. 

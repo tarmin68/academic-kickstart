@@ -18,8 +18,8 @@ authors = ["**Leila Karimi**" , "James Joshi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*2017 IEEE 3rd International Conference on Collaboration and Internet Computing*, pp. 359-368"
-publication_short = "CIC"
+publication = "*2017 IEEE 3rd International Conference on Collaboration and Internet Computing (CIC)*, pp. 359-368"
+# publication_short = "CIC"
 
 # Abstract and optional shortened version.
 abstract = "Pervasive usage and wide-spread sharing of Electronic Health Records (EHRs) in modern healthcare environments has resulted in high availability of patients’ medical history from any location and at any time, which has potential to make health care services both cheaper and of higher quality. However, EHRs contain huge amounts of sensitive information which should be protected from unauthorized accesses, otherwise allowing these records to be accessed by multiple parties may put patient privacy at high risk. Access control solutions must assure to reflect access control policies of all healthcare providers who are involved in generating such critical records as well as authorization policies of the patient as the primary stakeholder. In this paper, we propose a fine-grained semantic-based access control model that supports multi-owner multi-stakeholder policy specification and enforcement. In the proposed scheme, a trusted Policy Server is responsible for evaluating access requests to patients’ health information. We also handle the policy conflicts that might arise at the time of access control policy enforcement. A proof-of-concept prototype is also implemented to demonstrate the feasibility of our model."
@@ -36,7 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_custom = [{name = "Cite", url = "files/citation/accss-control-healthcare.bib"}, {name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
+url_custom = [{name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
 url_pdf = "files/AccessControlHealthcare.pdf"
 url_preprint = ""
 url_code = ""

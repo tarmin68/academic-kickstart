@@ -1,10 +1,10 @@
 +++
-title = "Multi-Owner Multi-Stakeholder Access Control Model for a Healthcare Environment"
-date = "2017-10-15"
+title = "Missing a Trusted Reference Monitor: How to Enforce Confidential and Dynamic Access Policies?"
+date = "2013-12-25"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Leila Karimi**" , "James Joshi"]
+authors = ["**Leila Karimi**" , "Seyyed Ahmad Javadi", "Mohammad Ali Hadavi" , "Rasool Jalili"]
 
 # Publication type.
 # Legend:
@@ -18,8 +18,8 @@ authors = ["**Leila Karimi**" , "James Joshi"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*2017 IEEE 3rd International Conference on Collaboration and Internet Computing (CIC)*, pp. 359-368"
-# publication_short = "CIC"
+publication = "*International Symposium on Computer Networks and Distributed Systems*, pp. 92-104"
+# publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,8 +36,8 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_custom = [{name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
-url_pdf = "files/AccessControlHealthcare.pdf"
+url_custom = [{name = "Cite", url = "static/files/citation/dynamic-access-policy.bib"}]
+url_pdf = "files/DynamicAccessPolicy.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

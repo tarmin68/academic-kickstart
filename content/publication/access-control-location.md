@@ -1,6 +1,6 @@
 +++
 title = "A Dynamic Privacy Aware Access Control Model for Location Based Services"
-date = "2016-10-15"
+date = "2016-12-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 

@@ -36,7 +36,6 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_custom = [{name = "Cite", url = "static/files/citation/dynamic-access-policy.bib"}]
 url_pdf = "files/DynamicAccessPolicy.pdf"
 url_preprint = ""
 url_code = ""

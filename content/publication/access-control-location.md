@@ -1,6 +1,6 @@
 +++
 title = "A Dynamic Privacy Aware Access Control Model for Location Based Services"
-date = "2017-10-15"
+date = "2016-10-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
@@ -19,7 +19,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "*2016 IEEE 2nd International Conference on Collaboration and Internet Computing (CIC)*, pp. 554-557"
-# publication_short = "CIC"
+# publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""

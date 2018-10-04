@@ -1,10 +1,10 @@
 +++
-title = "Multi-Owner Multi-Stakeholder Access Control Model for a Healthcare Environment"
-date = "2017-10-15"
+title = "Access control aware data retrieval for secret sharing based database outsourcing"
+date = "2016-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["**Leila Karimi**" , "James Joshi"]
+authors = ["Mohammad Ali Hadavi" , "Rasool Jalili" , "**Leila Karimi**"]
 
 # Publication type.
 # Legend:
@@ -15,11 +15,11 @@ authors = ["**Leila Karimi**" , "James Joshi"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*2017 IEEE 3rd International Conference on Collaboration and Internet Computing (CIC)*, pp. 359-368"
-# publication_short = "CIC"
+publication = "*Distributed and Parallel Databases*, v34, n4,  pp. 505-534"
+# publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -36,8 +36,7 @@ selected = false
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_custom = [{name = "Venue", url = "http://www.sis.pitt.edu/cic2017/"}]
-url_pdf = "files/AccessControlHealthcare.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""

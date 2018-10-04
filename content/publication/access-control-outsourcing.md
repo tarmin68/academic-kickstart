@@ -1,5 +1,5 @@
 +++
-title = "Access control aware data retrieval for secret sharing based database outsourcing"
+title = "Access Control Aware Data Retrieval for Secret Sharing Based Database Outsourcing"
 date = "2016-12-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["Mohammad Ali Hadavi" , "Rasool Jalili" , "**Leila Karimi**"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Distributed and Parallel Databases*, v34, n4,  pp. 505-534"
+publication = "*Distributed and Parallel Databases*, 34(4),  pp. 505-534"
 # publication_short = ""
 
 # Abstract and optional shortened version.
